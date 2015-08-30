@@ -1,5 +1,21 @@
 {
     "name": "vasimr",
     "version": "0.0.1",
-    "description": "Game engine build on top of the CreateJS suite."
+    "description": "Game engine build on top of the CreateJS suite.",
+    "author": "Matt Balmer <contact@mattbalmer.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattbalmer/vasimr"
+    },
+    "license": "MIT",
+    "keywords": [
+        "vasimr",
+        "game",
+        "engine",
+        "engine",
+        "js game",
+        "game framework",
+        "createjs",
+        "easeljs"
+    ]
 }
