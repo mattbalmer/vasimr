@@ -1,6 +1,6 @@
 {
     "name": "vasimr",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Game engine build on top of the CreateJS suite.",
     "author": "Matt Balmer <contact@mattbalmer.com>",
     "repository": {
@@ -20,7 +20,7 @@
     ],
     "dependencies": {
         "lodash": "^3.10.1",
-        "createjs-collection": "^0.0.1"
+        "createjs-collection": "^0.8.1"
     },
     "devDependencies": {
         "babel": "^5.8.23",
