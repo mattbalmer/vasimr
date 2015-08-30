@@ -27,5 +27,5 @@
     "dependencies": {
         "lodash": "^3.10.1",
         "createjs-collection": "^0.0.1"
-    },
+    }
 }
