@@ -2,7 +2,9 @@
     "name": "vasimr",
     "version": "0.0.2",
     "description": "Game engine build on top of the CreateJS suite.",
-    "author": "Matt Balmer <contact@mattbalmer.com>",
+    "authors": [
+        "Matt Balmer <contact@mattbalmer.com>"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/mattbalmer/vasimr"
@@ -18,18 +20,12 @@
         "createjs",
         "easeljs"
     ],
+    "moduleType": [
+        "globals",
+        "node"
+    ],
     "dependencies": {
         "lodash": "^3.10.1",
         "createjs-collection": "^0.0.1"
     },
-    "devDependencies": {
-        "babel": "^5.8.23",
-        "babelify": "^6.3.0",
-        "browserify": "^11.0.1",
-        "gulp": "^3.9.0",
-        "gulp-rename": "^1.2.2",
-        "gulp-sourcemaps": "^1.5.2",
-        "gulp-uglify": "^1.4.0",
-        "through2": "^2.0.0"
-    }
 }
